@@ -1,0 +1,4 @@
+﻿  HanoiTowers_Maaz.cpp
+C:\Maaz Imp\Projects\Hanoi Tower\Hanoi Tower\HanoiTowers_Maaz.cpp(225): warning C4715: 'initializeAllegro': not all control paths return a value
+C:\Maaz Imp\Projects\Hanoi Tower\Hanoi Tower\HanoiTowers_Maaz.cpp(338): warning C4715: 'userSelect': not all control paths return a value
+  Hanoi Tower.vcxproj -> C:\Maaz Imp\Projects\Hanoi Tower\Debug\Hanoi Tower.exe
